@@ -1,0 +1,21 @@
+{
+    "name": "4pollo/cngrec-oauth",
+    "description": "oauth package for thinkphp5",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cngrec",
+            "email": "grec@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gdk\\Oauth\\": "src/"
+        }
+    }
+}
