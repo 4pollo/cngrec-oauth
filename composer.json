@@ -9,7 +9,7 @@
             "email": "grec@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0"
     },
